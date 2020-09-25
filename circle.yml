@@ -7,3 +7,9 @@ deployment:
     branch: master
     heroku: 
       appname: cvds02lab06
+workflows:
+  version: 2
+  build_and_test:
+    jobs:
+      - build
+      - test

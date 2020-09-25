@@ -41,12 +41,12 @@ Estos archivos deben estar en la raiz del proyecto.
 ![image](https://user-images.githubusercontent.com/59893804/94320013-852d6500-ff51-11ea-9ac2-aaa1492e94b2.png)
 
 * #### Estos son los badges asociados a CODACY y de Circle.CI
-_CODACY_ 
+> _CODACY_ 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d31f0b7b8e434fa7b1ea7853e3c7ef86)](https://www.codacy.com/manual/santiagolaiton2700/CVDS-02-LAB-06?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=santiagolaiton2700/CVDS-02-LAB-06&amp;utm_campaign=Badge_Grade)
-
-_CIRCLECI_
+>
+> _CIRCLECI_
 [![CircleCI](https://circleci.com/gh/santiagolaiton2700/CVDS-02-LAB-06.svg?style=svg)](https://circleci.com/gh/santiagolaiton2700/CVDS-02-LAB-06)
-
+>
 ## Parte II. Interfaz Gráfica
 * ##### Agregamos algunos detalles a la interfaz gráfica de la página web que la haran mas amigable al usuario.
 _Inicialmente_
@@ -56,7 +56,7 @@ _Calculando_
 _Restaurando_
 ![image](https://user-images.githubusercontent.com/59893804/94320127-cf164b00-ff51-11ea-8863-9c199a9d14a8.png)
 
-** Se puede ingresar a la App acá:**  
+**Se puede ingresar a la App acá:**  
 [Calculadora](https://nantiagocvds02lab06.herokuapp.com/faces/Calculadora.xhtml)
 ---
 

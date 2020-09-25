@@ -15,7 +15,9 @@
 ![image](https://user-images.githubusercontent.com/59893804/94319319-f4a25500-ff4f-11ea-9409-2af1af9019d5.png)
 
 * #### Rectificamos el pom
-Añadimos el ```plugin``` indicado dentro de <build><plugins>
+
+Añadimos el ```plugin``` indicado dentro de ```<build><plugins>```
+  
 ![image](https://user-images.githubusercontent.com/59893804/94319620-ae99c100-ff50-11ea-8dce-55d44bd3eb80.png)
 
 * #### Añadimos ```system.properties``` y ```Procfile``` archivos de configuración requeridos por Heroku.

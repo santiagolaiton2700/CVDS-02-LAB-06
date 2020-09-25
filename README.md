@@ -1,7 +1,11 @@
 # Introducción CI
 
 ## Parte I. Integración continua con CircleCI y Heroku 
-* ##### Creamos una cuenta en Heroku y creamos una aplicación y generamos una llave de API
+* ##### Creamos una cuenta en Heroku ,creamos una aplicación y generamos una llave de API
+
+![image](https://user-images.githubusercontent.com/59893804/94319132-99706280-ff4f-11ea-811f-c91a7a04f5de.png)
+![image](https://user-images.githubusercontent.com/59893804/94319151-a42af780-ff4f-11ea-96e7-481392837985.png)
+
 * ##### Ingresamos a Circle.Ci autenticandonos con el usuario de GitHUB donde se encuentre el repositorio y agregamos el proyecto
 * ##### Cada vez que se hagan PUSH en el repo,CircleCI ejecutará la fase de construcción del proyecto. 
 * ##### Rectificamos el pom
